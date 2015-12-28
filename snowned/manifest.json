@@ -1,0 +1,21 @@
+{
+    "name": "Snowned",
+    "version": "0.1",
+    "icons": {
+        "512": "/img/icons/snowflake.png"
+    },
+
+    "description": "remove snowstorm.",
+
+    "content_scripts": [
+        {
+            "run_at": "document_end",
+            "matches": ["<all_urls>"],
+            "js": [
+                    "/js/content_script.js"
+                ]
+        }
+    ],
+
+    "manifest_version": 2
+}
