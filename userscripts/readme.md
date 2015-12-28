@@ -1,3 +1,3 @@
 ## Userscripts
 
-This folder contains userscripts (read: Greasemonkey) I create. They will only be tested and confirmed working with Firefox + Greasemonkey. 
+Collection of various userscripts I create. They have all been developed for Firefox and Greasemonkey.  
