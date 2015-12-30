@@ -1,13 +1,3 @@
-
-// ==UserScript==
-// @name        Newsquid fighter
-// @namespace   http://github.com/phildk
-// @description Remove the annoying pop-up box and blur from websites using Newsquid.
-// @version     0.4
-// @match       *
-// @grant       none
-// ==/UserScript==
-
 window.setInterval(function removeBlock() {
   // Remove the offensive box, asking for payment.
   var dNested = document.getElementById("nsqbox");
@@ -21,4 +11,4 @@ window.setInterval(function removeBlock() {
   // Let's remove the cookie notification box too.
   var cookieBox = document.getElementById("cookieInformerBooklet");
   var removeCookieBox = cookieBox.parentNode.removeChild(cookieBox);
-},10000);
+},3000);

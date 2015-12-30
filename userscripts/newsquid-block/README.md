@@ -9,5 +9,5 @@ To install:
 	- Drag'n drop the noblock.user.js file into Firefox. 
 
 ## Chrome
-	- Open Chrome://extensions
-	- Drag'n drop the noblock.user.js file into the extensions page.
+
+A full-fledged Chrome add-on has been developed too. (see: )
