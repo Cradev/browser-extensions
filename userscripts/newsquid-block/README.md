@@ -10,4 +10,4 @@ To install:
 
 ## Chrome
 
-A full-fledged Chrome add-on has been developed too. (see: )
+A full-fledged [Chrome add-on](https://github.com/phildk/browser-extensions/tree/master/newsquid-blocker) has been developed too. (see: )
